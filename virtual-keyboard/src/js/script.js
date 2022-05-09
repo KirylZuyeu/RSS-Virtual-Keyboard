@@ -13,3 +13,11 @@ const rowsOrder = [
 const lang = get('kbLang', '"ru"');
 
 new Keyboard(rowsOrder).init(lang).generateLayout();
+
+const result = `По любым возникающим повросам в ходе проверки, можно писать мне в:
+  - Telegram: https://t.me/KirylZuyeu (@KirylZuyeu)
+  - Discord: KirylZuyeu#1555 (@KirylZuyeu)
+  Заранее, спасибо!!!
+`;
+
+console.log(result);
