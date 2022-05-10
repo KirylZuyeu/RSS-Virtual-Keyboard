@@ -10,6 +10,8 @@ const main = create(
   '',
   [create('h1', 'title', 'Virtual Keyboard'),
     create('h3', 'subtitle', 'Чтобы сменить раскладку клавиатуры используем комбинацию клавиш Ctrl+Alt или нажимаем на клавишу <i class="borderButton">EN</i>/<i class="borderButton">RU</i>.'),
+    create('h3', 'subtitle', 'Ссылка на Репозиторий данного проекта - <a href="https://github.com/KirylZuyeu/RSS-Virtual-Keyboard" class="link_button">RSS-Virtual-Keyboard</a>.'),
+    create('h3', 'subtitle', 'Ссылка на Pull Request данного проекта - <a href="https://github.com/KirylZuyeu/RSS-Virtual-Keyboard/pull/1" class="link_button">RSS-Virtual-Keyboard - Pull Request</a>.'),
   ],
 );
 

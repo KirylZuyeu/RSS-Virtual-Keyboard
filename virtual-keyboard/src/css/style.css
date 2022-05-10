@@ -457,3 +457,11 @@ textarea.output {
   }
 }
 
+.link_button {
+  text-decoration: none;
+  color: black;
+}
+
+.link_button:hover {
+  color: rgb(11, 18, 161);
+}
