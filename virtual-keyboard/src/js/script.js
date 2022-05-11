@@ -20,4 +20,5 @@ const result = `По любым возникающим повросам в хо�
   Заранее, спасибо!!!
 `;
 
+// eslint-disable-next-line no-console
 console.log(result);
